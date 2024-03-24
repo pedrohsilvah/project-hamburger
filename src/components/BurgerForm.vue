@@ -2,7 +2,7 @@
     <div>
         <Message :msg="msg" v-show="msg"/>
         <div>
-            <form id="burger-form" @submit="createBurger">
+            <form id="burger-form" method="POST" @submit="createBurger">
 
                 <div class="input-container">
                     <label for="nome">Nome do cliente</label>
@@ -73,7 +73,7 @@ export default {
             this.opcionaisdata = data.opcionais
         },
         async createBurger(e) {
-            e.preventDefault(e)
+            e.preventDefault()
 
             const data = {
                 nome: this.nome,

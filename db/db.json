@@ -121,6 +121,32 @@
         "Bacon"
       ],
       "status": "solicitado"
+    },
+    {
+      "id": "62af",
+      "nome": "Pedro",
+      "carne": "carne.tipo",
+      "pao": "pao.tipo",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "solicitado"
+    },
+    {
+      "id": "9def",
+      "nome": "mario",
+      "carne": "carne.tipo",
+      "pao": "pao.tipo",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa",
+        "Cheddar",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "solicitado"
     }
   ]
 }
