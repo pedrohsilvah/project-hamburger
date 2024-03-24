@@ -100,6 +100,27 @@
         "Cebola roxa"
       ],
       "status": "solicitado"
+    },
+    {
+      "id": "dfbe",
+      "nome": "Pedro",
+      "carne": "carne.tipo",
+      "pao": "pao.tipo",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "solicitado"
+    },
+    {
+      "id": "32a8",
+      "nome": "Pedro",
+      "carne": "carne.tipo",
+      "pao": "pao.tipo",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "solicitado"
     }
   ]
 }
