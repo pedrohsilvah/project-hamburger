@@ -18,7 +18,7 @@
                 <div>{{ burger.carne }}</div>
                 <div>
                     <ul>
-                        <li v-for="(opcional, index) in burge.opcionais" :key="index">Salame</li>
+                        <li v-for="(opcional, index) in burger.opcionais" :key="index">{{ opcional }}</li>
                         <li>Tomate</li>
                     </ul>
                 </div>

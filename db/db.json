@@ -147,6 +147,17 @@
         "Pepino"
       ],
       "status": "solicitado"
+    },
+    {
+      "id": "3f9d",
+      "nome": "sla",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Tomate"
+      ],
+      "status": "solicitado"
     }
   ]
 }
